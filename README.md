@@ -7,13 +7,7 @@ This repository contains a PyTorch implementation of a convolutional neural netw
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Code Structure](#code-structure)
-- [Dataset Details](#dataset-details)
-- [Model Architecture](#model-architecture)
-- [Additional Tools](#additional-tools)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
