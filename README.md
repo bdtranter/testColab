@@ -1,4 +1,4 @@
-readme_content = """# CNN Model Training on CIFAR-10
+# CNN Model Training on CIFAR-10
 
 This repository contains a PyTorch implementation of a convolutional neural network (CNN) designed to classify images from the CIFAR-10 dataset. The code includes training and evaluation routines, model profiling with [THOP](https://github.com/Lyken17/pytorch-OpCounter), and additional utilities such as dropout, batch normalization, and model saving. The project also integrates progress visualization via [tqdm](https://github.com/tqdm/tqdm) and experiment logging using [Weights & Biases (wandb)](https://wandb.ai).
 
